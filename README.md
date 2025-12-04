@@ -15,7 +15,7 @@ welcome to my lil corner of the internet where i break code, fix it, then break 
 • upgrading my github vibes
 
 ## languages and tools
-<img src="https://skillicons.dev/icons?i=python,sqlite,github,vscode,git" />
+<img src="https://skillicons.dev/icons?i=python,js,sqlite,github,vscode,git" />
 
 ## my stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=asadullahbro&show_icons=true&theme=radical)  
