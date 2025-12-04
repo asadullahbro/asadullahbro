@@ -18,9 +18,9 @@ welcome to my lil corner of the internet where i break code, fix it, then break 
 <img src="https://skillicons.dev/icons?i=python,sqlite,github,vscode,git" />
 
 ## my stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=asadullahbro&show_icons=true&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=asadullahbro&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)
 
 ## connect with me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727155850816520213)
