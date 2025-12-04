@@ -10,9 +10,8 @@ welcome to my lil corner of the internet where i break code, fix it, then break 
 
 ## what im working on rn
 • discord bot features  
-• better-sqlite3 leaderboard stuff  
 • random python scripts that accidentally turn into full projects  
-• making some random banking app
+• some random banking app
 
 ## languages and tools
 <img src="https://skillicons.dev/icons?i=python,js,sqlite,github,vscode,git" />
