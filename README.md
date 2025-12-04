@@ -8,19 +8,17 @@ welcome to my lil corner of the internet where i break code, fix it, then break 
 • sqlite + backend experiments  
 • always trying to make things look cooler than they actually are
 
-## what im cooking rn
+## what im working on rn
 • discord bot features  
 • better-sqlite3 leaderboard stuff  
 • random python scripts that accidentally turn into full projects  
-• upgrading my github vibes
+• making some random banking app
 
 ## languages and tools
 <img src="https://skillicons.dev/icons?i=python,js,sqlite,github,vscode,git" />
 
 ## my stats
-![Stats](https://github-readme-stats.vercel.app/api?username=asadullahbro&show_icons=true&theme=radical)  
 ![Streak](https://streak-stats.demolab.com?user=asadullahbro&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)
 
 ## connect with me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727155850816520213)
