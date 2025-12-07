@@ -6,7 +6,7 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 • python enjoyer  
 • building bots and random tools  
 • sqlite + backend experiments  
-• always trying to make things look cooler than they actually are
+• always trying to make things look cooler than they actually are (maybe in hours?)
 
 ## What I'm working on right now
 • discord bot features  
