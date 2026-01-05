@@ -3,7 +3,7 @@
 Welcome to my lil corner of the internet where i break code, fix it, then break it again for fun
 
 ## About me
-• python enjoyer  
+• python nut?  
 • building bots and random tools  
 • sqlite + backend experiments  
 • always trying to make things look cooler than they actually are (maybe in hours?)
