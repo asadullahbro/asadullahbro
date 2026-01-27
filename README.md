@@ -27,10 +27,9 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 ![Streak](https://streak-stats.demolab.com?user=asadullahbro&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💻 Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- **Databases:** ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🐍 My Contribution Snake
+![snake ascii art](https://github.com/asadullahbro/asadullahbro/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Connect with me
 <a href="https://discord.com/users/727155850816520213">
