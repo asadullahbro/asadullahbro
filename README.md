@@ -37,12 +37,16 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 ![Snake animation](https://github.com/asadullahbro/asadullahbro/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Connect with me
-<a href="https://discord.com/users/727155850816520213">
-  <img src="https://lanyard.cnrad.dev/api/727155850816520213?theme=dark&bg=1a1b27&borderRadius=30px" alt="Discord Presence" />
-</a>
-
+[![Website](https://img.shields.io/badge/Website-asdl.website-F7DF1E?style=for-the-badge&logo=vercel&logoColor=black)](https://asdl.website)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727155850816520213)
 
 ## Random quote of the day
 > if the code works dont touch it  
 > if it doesnt work also dont touch it  
 > stare at it until it magically fixes itself
+
+
+
+<a href="https://discord.com/users/727155850816520213">
+  <img src="https://lanyard.cnrad.dev/api/727155850816520213?theme=dark&bg=1a1b27&borderRadius=30px" alt="Discord Presence" />
+</a>
