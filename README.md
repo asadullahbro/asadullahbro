@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm Asadullah! 🚀</p>
+# <p align="center">Hi, I'm Asadullah!</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Python+Nut;Backend+Explorer;Breaking+code+for+fun" alt="Typing SVG" />
 </p>
