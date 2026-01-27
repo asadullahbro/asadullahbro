@@ -30,7 +30,11 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 <img src="https://skillicons.dev/icons?i=python,js,sqlite,postgres,github,vscode,git" />
 
 ## My stats
-![Streak]([https://streak-stats.demolab.com?user=asadullahbro&theme=radical](https://github-readme-stats.vercel.app/api?username=asadullahbro&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true))  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadullahbro&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=F7DF1E&icon_color=F7DF1E" alt="Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=asadullahbro&theme=dark&background=0d1117&hide_border=true&ring=F7DF1E&fire=F7DF1E" alt="Streak" />
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🐍 Snake Game
