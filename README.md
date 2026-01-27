@@ -11,9 +11,9 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 • always trying to make things look cooler than they actually are (maybe in hours?)
 
 ## What I'm working on right now
-• discord bot features  
-• random python scripts that accidentally turn into full projects  
-• Some E-commerce project :)
+- 🤖 **Discord Bot Features** ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
+- 🐍 **Random Python Scripts** ![Experimental](https://img.shields.io/badge/Status-Experimental-orange)
+- 🛒 **E-Hotel Project** ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
 
 ## Languages and tools
 <img src="https://skillicons.dev/icons?i=python,js,sqlite,github,vscode,git" />
