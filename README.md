@@ -28,13 +28,13 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 
 ## Languages and tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 ## My stats
