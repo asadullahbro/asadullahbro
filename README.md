@@ -1,7 +1,13 @@
 # <p align="center">Hi, I'm Asadullah!</p>
 <p align="center">
+  <a href="https://asdl.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-asdl.website-F7DF1E?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Python+Nut;Backend+Explorer;Breaking+code+for+fun" alt="Typing SVG" />
 </p>
+
 Welcome to my lil corner of the internet where i break code, fix it, then break it again for fun
 
 ---
