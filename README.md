@@ -33,7 +33,6 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="50" alt="sqlite" />&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgres" />&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" height="50" alt="github" />&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="vscode" />&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git" />
 </p>
 
