@@ -21,14 +21,14 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 - 🏨 **E-Hotel Project** ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
 
 ## Languages and tools
-<img src="https://skillicons.dev/icons?i=python,js,sqlite,github,vscode,git" />
+<img src="https://skillicons.dev/icons?i=python,js,sqlite,github,vscode,git" />v
 
 ## My stats
 ![Streak](https://streak-stats.demolab.com?user=asadullahbro&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
-[![Discord Presence](https://lanyard.roxy.wtf/api/727155850816520213)](https://discord.com/users/727155850816520213)
+[![Discord Presence](https://api.lanyard.rest/v1/users/727155850816520213)](https://discord.com/users/727155850816520213)
 
 ## Random quote of the day
 > if the code works dont touch it  
