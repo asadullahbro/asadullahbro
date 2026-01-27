@@ -13,7 +13,7 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 ## What I'm working on right now
 - 🤖 **Discord Bot Features** ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
 - 🐍 **Random Python Scripts** ![Experimental](https://img.shields.io/badge/Status-Experimental-orange)
-- 🛒 **E-Hotel Project** ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
+- 🏨 **E-Hotel Project** ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
 
 ## Languages and tools
 <img src="https://skillicons.dev/icons?i=python,js,sqlite,github,vscode,git" />
