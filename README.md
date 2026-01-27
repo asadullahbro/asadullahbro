@@ -32,10 +32,8 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 ## My stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asadullahbro&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=F7DF1E&icon_color=F7DF1E" height="150" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=asadullahbro&theme=dark&background=0d1117&hide_border=true&ring=F7DF1E&fire=F7DF1E" height="150" />
-</p>
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=F7DF1E&text_color=FFFFFF" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=asadullahbro&theme=dark&background=0d1117&hide_border=true&ring=F7DF1E&fire=F7DF1E" height="150" alt="Streak" />
 </p>
 
 ## 🐍 Snake Game
