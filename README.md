@@ -28,7 +28,7 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727155850816520213)
+[![Discord Presence](https://lanyard.roxy.wtf/api/727155850816520213)](https://discord.com/users/727155850816520213)
 
 ## Random quote of the day
 > if the code works dont touch it  
