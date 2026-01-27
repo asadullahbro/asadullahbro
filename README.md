@@ -47,6 +47,9 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 
 
 
+
+
+
 <a href="https://discord.com/users/727155850816520213">
   <img src="https://lanyard.cnrad.dev/api/727155850816520213?theme=dark&bg=1a1b27&borderRadius=30px" alt="Discord Presence" />
 </a>
