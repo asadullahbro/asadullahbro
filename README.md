@@ -16,7 +16,6 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 </p>
 
 ## About me
-• python nut?  
 • building bots and random tools  
 • sqlite + backend experiments  
 • always trying to make things look cooler than they actually are (maybe in hours?)
