@@ -27,7 +27,15 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 - 🏨 **E-Hotel Project** ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
 
 ## Languages and tools
-<img src="https://skillicons.dev/icons?i=python,js,sqlite,postgres,github,vscode,git&perline=4" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## My stats
 <p align="left">
