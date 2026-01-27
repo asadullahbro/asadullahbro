@@ -30,8 +30,6 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="python" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="js" />&nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="50" alt="sqlite" />&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgres" />&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" height="50" alt="github" />&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git" />
 </p>
