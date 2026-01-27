@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Python+Nut;Backend+Explorer;Breaking+code+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Python+Nut?;Backend+Explorer;Breaking+code+for+fun" alt="Typing SVG" />
 </p>
 
 Welcome to my lil corner of the internet where i break code, fix it, then break it again for fun
