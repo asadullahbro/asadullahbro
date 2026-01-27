@@ -27,11 +27,8 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 ![Streak](https://streak-stats.demolab.com?user=asadullahbro&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <h3>🐍 The Contribution Snake</h3>
-  <img src="https://github.com/asadullahbro/asadullahbro/blob/output/github-contribution-grid-snake-dark.svg" width="800px" />
-</div>
-
+## 🐍 Snake Game
+![Snake animation](https://github.com/asadullahbro/asadullahbro/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Connect with me
 <a href="https://discord.com/users/727155850816520213">
