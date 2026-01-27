@@ -28,13 +28,13 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 
 ## Languages and tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white" />
- <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="python" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="50" alt="sqlite" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgres" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" height="50" alt="github" />&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="vscode" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git" />
 </p>
 
 ## My stats
