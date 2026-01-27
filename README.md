@@ -1,5 +1,7 @@
-## Hey there, I'm Asadullah 👋
-
+# <p align="center">Hi, I'm Asadullah! 🚀</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Python+Nut;Backend+Explorer;Building+the+Future...;Breaking+code+for+fun" alt="Typing SVG" />
+</p>
 Welcome to my lil corner of the internet where i break code, fix it, then break it again for fun
 
 ## About me
@@ -18,6 +20,7 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 
 ## My stats
 ![Streak](https://streak-stats.demolab.com?user=asadullahbro&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahbro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727155850816520213)
