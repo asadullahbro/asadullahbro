@@ -32,7 +32,6 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
   <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
   <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
