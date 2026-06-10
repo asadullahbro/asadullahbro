@@ -5,10 +5,10 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Self-taught+dev;Backend+%2B+Infrastructure;Breaking+things+on+purpose;Shipping+anyway" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=still+learning;breaking+things+since+forever;backend+%2B+infra+stuff;ships+eventually" alt="Typing SVG" />
 </p>
 
-Welcome to my corner of the internet — I build things, break them, debug them at midnight, and somehow end up with working infrastructure
+just a self-taught dev building things, breaking them, and figuring it out along the way
 
 ---
 <p align="center">
@@ -16,16 +16,16 @@ Welcome to my corner of the internet — I build things, break them, debug them 
 </p>
 
 ## About me
-- self-taught, full-stack-ish, backend-at-heart  
-- i build Discord bots, web apps, and self-hosted infrastructure  
-- running my own mail server, AD domain, and a bunch of services from a home server  
-- postgres is my love language  
+- self-taught, mostly backend, dabbling in infra  
+- i build Discord bots, web apps, and sometimes overly complicated home server setups  
+- postgres for everything, docker for the rest  
+- figuring things out as i go  
 
 ## What I'm working on right now
-- 🤖 **Discord Bot (Gamer AK)** — building custom Discord bots, [hit me up on Discord](https://discord.com/users/727155850816520213) if you want one ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
-- 🏦 **SimpleBanking** — FastAPI backend with OAuth2, 2FA, and payment flows ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
-- 🛒 **LM-Store** — Next.js e-commerce with Redis cart reservations ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
-- 🏠 **Home Lab** — Mailcow + Samba AD + Nextcloud + SOGo, all self-hosted ![Always Breaking](https://img.shields.io/badge/Status-Always_Breaking-red)
+- 🤖 **Discord Bots** — custom bots, dm me on Discord if you need one ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
+- 🏦 **SimpleBanking** — FastAPI backend, OAuth2, 2FA, payment stuff ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
+- 🛒 **LM-Store** — Next.js e-commerce app ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
+- 🏠 **Home Lab** — self-hosted mail, AD, Nextcloud — always something broken ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
 
 ## Languages and tools
 <p align="left">
