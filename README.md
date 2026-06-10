@@ -5,10 +5,10 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Python+Nut?;Backend+Explorer;Breaking+code+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Self-taught+dev;Backend+%2B+Infrastructure;Breaking+things+on+purpose;Shipping+anyway" alt="Typing SVG" />
 </p>
 
-Welcome to my lil corner of the internet where i break code, fix it, then break it again for fun
+Welcome to my corner of the internet — I build things, break them, debug them at midnight, and somehow end up with working infrastructure
 
 ---
 <p align="center">
@@ -16,19 +16,27 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 </p>
 
 ## About me
-• building bots and random tools  
-• postgres + backend experiments  
-• always trying to make things look cooler than they actually are (maybe in hours?)
+- self-taught, full-stack-ish, backend-at-heart  
+- i build Discord bots, web apps, and self-hosted infrastructure  
+- running my own mail server, AD domain, and a bunch of services from a home server  
+- postgres is my love language  
 
 ## What I'm working on right now
-- 🤖 **Discord Bot Features** ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
-- 🐍 **Random Python Scripts** ![Experimental](https://img.shields.io/badge/Status-Experimental-orange)
-- 🏨 **E-Hotel Project** ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
+- 🤖 **Discord Bot (Gamer AK)** — building custom Discord bots, [hit me up on Discord](https://discord.com/users/727155850816520213) if you want one ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
+- 🏦 **SimpleBanking** — FastAPI backend with OAuth2, 2FA, and payment flows ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
+- 🛒 **LM-Store** — Next.js e-commerce with Redis cart reservations ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
+- 🏠 **Home Lab** — Mailcow + Samba AD + Nextcloud + SOGo, all self-hosted ![Always Breaking](https://img.shields.io/badge/Status-Always_Breaking-red)
 
 ## Languages and tools
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="python" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="ts" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="50" alt="nextjs" />&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="50" alt="fastapi" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgres" />&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="nginx" />&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" height="50" alt="github" />&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git" />
 </p>
@@ -49,13 +57,8 @@ Welcome to my lil corner of the internet where i break code, fix it, then break 
 [![Email](https://img.shields.io/badge/mail-1035AC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadullah@asdl.website)
 
 ## Random quote of the day
-> if the code works dont touch it  
-> if it doesnt work also dont touch it  
-> stare at it until it magically fixes itself
-
-
-
-
-
+> if the code works don't touch it  
+> if it doesn't work, check the Docker logs  
+> if the Docker logs make no sense, the container is probably stale  
 
 <a href="https://discord.com/users/727155850816520213"><img src="https://lanyard.cnrad.dev/api/727155850816520213?hideBadges=true&hideDecoration=true&idleMessage=I%20ain't%20doing%20anything%20right%20now&showDisplayName=true&bg=0d1117" /></a>
