@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=still+learning;breaking+things+since+forever;backend+%2B+infra+stuff;ships+eventually" alt="Typing SVG" />
 </p>
 
-just a self-taught dev building things, breaking them, and figuring it out along the way
+just a dev building things, breaking them, and figuring it out along the way
 
 ---
 <p align="center">
@@ -16,7 +16,7 @@ just a self-taught dev building things, breaking them, and figuring it out along
 </p>
 
 ## About me
-- self-taught, mostly backend, dabbling in infra  
+- mostly backend, dabbling in infra  
 - i build Discord bots, web apps, and sometimes overly complicated home server setups  
 - postgres for everything, docker for the rest  
 - figuring things out as i go  
