@@ -46,7 +46,7 @@ building things, breaking things, occasionally shipping things
 ![Snake animation](https://github.com/asadullahbro/asadullahbro/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Connect with me
-[![Website](https://img.shields.io/badge/Website-asdl.website-F7DF1E?style=for-the-badge&logo=vercel&logoColor=black)](https://asdl.website)
+[![Website](https://img.shields.io/badge/Website-asdl.website-F7DF1E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjE2IiBmaWxsPSIjMEEwQTBCIi8+CiAgPHJlY3QgeD0iMjAiIHk9IjI1IiB3aWR0aD0iNjAiIGhlaWdodD0iNCIgcng9IjIiIGZpbGw9IiNGMkEzM0QiIG9wYWNpdHk9IjAuNCIvPgogIDxyZWN0IHg9IjIwIiB5PSIzNSIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjQiIHJ4PSIyIiBmaWxsPSIjRjJBMzNEIiBvcGFjaXR5PSIwLjMiLz4KICA8cmVjdCB4PSIyMCIgeT0iNDUiIHdpZHRoPSI1MCIgaGVpZ2h0PSI0IiByeD0iMiIgZmlsbD0iI0YyQTMzRCIgb3BhY2l0eT0iMC41Ii8+CiAgPHJlY3QgeD0iMjAiIHk9IjU1IiB3aWR0aD0iMzUiIGhlaWdodD0iNCIgcng9IjIiIGZpbGw9IiNGMkEzM0QiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MCIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L3JlY3Q+CiAgPHRleHQgeD0iMjAiIHk9Ijc4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IMTYiIGZpbGw9IiNGMkEzM0QiIGZvbnQtd2VpZ2h0PSJib2xkIj4mZ3Q7Jmd0OzwvdGV4dD4KPC9zdmc+Cg==&logoColor=black)](https://asdl.website)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727155850816520213)
 [![Email](https://img.shields.io/badge/mail-1035AC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadullah@asdl.website)
 
