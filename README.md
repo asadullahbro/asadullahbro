@@ -5,10 +5,10 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=still+learning;breaking+things+since+forever;backend+%2B+infra+stuff;ships+eventually" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=backend+%2B+infra+stuff;ships+eventually" alt="Typing SVG" />
 </p>
 
-just a dev building things, breaking them, and figuring it out along the way
+building things, breaking things, occasionally shipping things
 
 ---
 <p align="center">
@@ -19,13 +19,7 @@ just a dev building things, breaking them, and figuring it out along the way
 - mostly backend, dabbling in infra  
 - i build Discord bots, web apps, and sometimes overly complicated home server setups  
 - postgres for everything, docker for the rest  
-- figuring things out as i go  
-
-## What I'm working on right now
-- 🤖 **Discord Bots** — custom bots, dm me on Discord if you need one ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
-- 🏦 **SimpleBanking** — FastAPI backend, OAuth2, 2FA, payment stuff ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
-- 🛒 **LM-Store** — Next.js e-commerce app ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
-- 🏠 **Home Lab** — self-hosted mail, AD, Nextcloud — always something broken ![In Progress](https://img.shields.io/badge/Status-In_Progress-blue)
+- currently building **ASDL Hub** — a self-hosted infra control system (Go/Gin + Next.js) for monitoring and deploying to my machines over WireGuard
 
 ## Languages and tools
 <p align="left">
