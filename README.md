@@ -44,7 +44,7 @@ building things, breaking things, occasionally shipping things
   <img src="https://streak-stats.demolab.com?user=asadullahbro&theme=dark&background=0d1117&hide_border=true&ring=F7DF1E&fire=F7DF1E" height="150" alt="Streak" />
 </p>
 
-## 🐍 Snake Game
+## Snake Game
 ![Snake animation](https://github.com/asadullahbro/asadullahbro/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Connect with me
