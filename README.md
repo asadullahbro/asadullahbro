@@ -19,11 +19,12 @@ building things, breaking things, occasionally shipping things
 - mostly backend, dabbling in infra  
 - i build Discord bots, web apps, and sometimes overly complicated home server setups  
 - postgres for everything, docker for the rest  
-- currently building **ASDL Hub** — a self-hosted infra control system (Go/Gin + Next.js) for monitoring and deploying to my machines over WireGuard
+- currently building **ASDL Hub** — a self-hosted infra control system (Go/Gin + Next.js) for monitoring, deploying and failing over apps across my machines over WireGuard
 
 ## Languages and tools
 <p align="left">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="50" alt="go" />&nbsp;
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="50" alt="kotlin" />&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="python" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="js" />&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="ts" />&nbsp;
@@ -36,6 +37,14 @@ building things, breaking things, occasionally shipping things
   <img src="https://cdn.simpleicons.org/github/white" height="50" alt="github" />&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git" />
 </p>
+
+## Projects
+- [**ASDL Hub**](https://github.com/asadullahbro/ASDL-Hub) — self-hosted infra hub: nodes, deployments, failover and uptime tracking over WireGuard (Go, Next.js, Postgres)
+- [**asdl-agent**](https://github.com/asadullahbro/asdl-agent) — the Go node agent that runs on each machine for the Hub
+- [**ntfy**](https://github.com/asadullahbro/ntfy) — push notifications to phone or desktop via PUT/POST (Go)
+- [**pocket-relay**](https://github.com/asadullahbro/pocket-relay) — forwards Android SMS and call alerts to iOS through a self-hosted ntfy (Kotlin)
+- [**dash**](https://github.com/asadullahbro/dash) — a calm, minimal habit tracker
+- [**SimpleBanking**](https://github.com/asadullahbro/SimpleBanking) — FastAPI banking app with 2FA and an admin dashboard
 
 ## My stats
 <p align="left">
