@@ -48,8 +48,9 @@ building things, breaking things, occasionally shipping things
 
 ## My stats
 <p align="left">
-  <img src="https://cards.asdl.website/stats.svg" alt="GitHub stats" />
-  <img src="https://cards.asdl.website/langs.svg" alt="Top languages" />
+  <img src="https://cards.asdl.website/stats.svg" height="150" alt="Stats" />
+  <img src="https://cards.asdl.website/langs.svg" height="150" alt="Top Languages" />
+  <img src="https://cards.asdl.website/streak.svg" height="150" alt="Streak" />
 </p>
 
 ## Snake Game
