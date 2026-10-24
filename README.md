@@ -40,7 +40,7 @@ building things, breaking things, occasionally shipping things
 </p>
 
 ## Projects
-- [**ASDL Hub**](https://github.com/asadullahbro/ASDL-Hub) — self-hosted infra hub: nodes, deployments, failover and uptime tracking over WireGuard (Go, Next.js, Postgres) · [docs](https://docs.asdl.website) · ![release](https://img.shields.io/github/v/release/asadullahbro/ASDL-Hub?style=flat-square&color=F2A33D&label=)
+- [**ASDL Hub**](https://github.com/asadullahbro/ASDL-Hub) — self-hosted infra hub: nodes, deployments, failover and uptime tracking over WireGuard (Go, Next.js, Postgres) · [docs](https://docs.asdl.website)
 - [**asdl-agent**](https://github.com/asadullahbro/asdl-agent) — the Go node agent that runs on each machine for the Hub
 - [**pocket-relay**](https://github.com/asadullahbro/pocket-relay) — forwards Android SMS and call alerts to iOS through a self-hosted ntfy (Kotlin)
 - [**dash**](https://github.com/asadullahbro/dash) — a calm, minimal habit tracker
